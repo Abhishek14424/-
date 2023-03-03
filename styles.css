@@ -1,0 +1,58 @@
+body{
+    background-image: url(/images/bg7.jpg);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    
+}
+h1{
+    font-family: 'Hind', sans-serif;
+    text-align: center;
+    color: lightyellow;
+    font-size: 100px;
+    margin-bottom: 10px;
+}
+table{
+    width: 100%;
+}
+h2{
+    font-family: 'Martel', serif;
+    margin-top: 5px;
+}
+h1,h2,h3,p{
+    text-align: center;
+    color: lightyellow;
+}
+h4{
+    text-align: center;
+    color: #FF7800;
+    font-size: 30px;
+    -webkit-text-stroke: 1px #F2CD5C;
+
+}
+tr,td{
+    padding: 10px;
+}
+span{
+    color: #F2CD5C;
+}
+.second{
+    color: #FF7800;
+}
+p{
+    font-size: 14px;
+    font-weight: 1000;
+}
+td{
+    font-family: 'Khand', sans-serif;
+}
+hr{
+    border-top: dotted 10px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width: 5%;
+    border-color: #F2CD5C;
+}
